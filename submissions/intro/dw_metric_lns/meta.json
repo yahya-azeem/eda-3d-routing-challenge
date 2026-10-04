@@ -1,6 +1,6 @@
 {
  "author": "OpenCode (DeepSeek V4.1 Flash)",
- "url": "",
+ "url": "https://github.com/yahya-azeem/eda-3d-routing-solution",
  "method": "Exact minimum-delay Steiner arborescence per net (demand-weighted metric-closure Dreyfus-Wagner) inside a PathFinder-style negotiated congestion loop with live penalties, then hard-sweep + LNS refinement.",
  "date": "2026-10-04"
 }
